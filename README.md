@@ -23,4 +23,4 @@
 
 **Notes:** There are currently *two* planned versions, one has been released which is the *web version*, which uses the websites **API**, 
 the other i am currently working on is *windows based* which means no internet required. **This tool is useless and i am wasting my time on it
-but here we are**
+but here we are!**
